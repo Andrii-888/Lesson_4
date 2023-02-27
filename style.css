@@ -1,0 +1,24 @@
+.block1{
+width: 35%;
+height: 45%;
+border: 1px solid black;
+text-align: justify;
+/*background-image: url(https://pickimage.ru/wp-content/uploads/images/detskie/starrysky/zvezdnoenebo12.jpg);
+background-size: contain;
+background-repeat: repeat-y;
+background-position: right;
+background-size: center center;
+background-repeat: repeat-y;
+background-attachment: scroll;*/
+box-shadow: 10px 10px 10px 10px gray;
+}
+body{
+background-image: url(https://demotivation.ru/wp-content/uploads/2020/09/0_ad078_807a3b88_XXXL.jpg);
+background-position: right top;
+background-repeat: repeat-y;
+background-size: 20%;
+
+
+
+
+}
